@@ -1,0 +1,4 @@
+read me
+
+first train the model using the code in notebook file then save the 
+model use it any where using generation code.
